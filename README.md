@@ -1,12 +1,9 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, Senior Software Engineer here.</h1>
+<h1 align="center">Hi 👋, Full-Stack Engineer here.</h1>
 
-I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
+Yo! I mostly write code nowadays. curious about engineering, science, etc.
+Lifelong learner. Feel free to hit me up ;)
 <br>
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend and backend development. 
-This lets me build web apps that are not only stunning to look at but also run like a dream and put users first.
-<br>
-New challenges keep me energized, and I'm always ready to tackle them head-on.
 
 <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
@@ -192,7 +189,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=nathfavour&theme=vue-dark" alt="nathfavour Streak" />                                           |  <img width="450em" align="center" alt="nathfavour's Github stats"  src="https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar." /> </p>
 
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=nathfavour" /></h1>
 
