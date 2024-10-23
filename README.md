@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, Full-Stack Engineer here.</h1>
 
 Yo! I mostly write code nowadays. curious about engineering, science, etc.
+
+## Flutter Enthusiast ## Rust Enthusiast ## Electronics Enthusiast
 Lifelong learner. Feel free to hit me up ;)
+
 <br>
 
 <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
