@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, Full-Stack Engineer here.</h1>
 
 Yo! I mostly write code nowadays. Curious about engineering, science, etc. 
-I'll create anything that interests me...
 
 ## AI ## Crypto ## IOT
+
+I'll create anything that interests me...
 Lifelong learner. Feel free to hit me up ;)
 
 <br>
