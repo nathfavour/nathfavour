@@ -1,9 +1,10 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
 <h1 align="center">Hi 👋, Full-Stack Engineer here.</h1>
 
-Yo! I mostly write code nowadays. curious about engineering, science, etc.
+Yo! I mostly write code nowadays. Curious about engineering, science, etc. 
+I'll create anything that interests me...
 
-## Flutter Enthusiast ## Rust Enthusiast ## Electronics Enthusiast
+## Rust Enthusiast ## Electronics Enthusiast ## Django 
 Lifelong learner. Feel free to hit me up ;)
 
 <br>
