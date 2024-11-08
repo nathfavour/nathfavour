@@ -193,7 +193,7 @@ Lifelong learner. Feel free to hit me up ;)
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=nathfavour&theme=vue-dark" alt="nathfavour Streak" />                                           |  <img width="450em" align="center" alt="nathfavour's Github stats"  src="https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar." /> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar.&author=nathfavour" /> </p>
 
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=nathfavour" /></h1>
 
