@@ -4,7 +4,7 @@
 Yo! I mostly write code nowadays. Curious about engineering, science, etc. 
 I'll create anything that interests me...
 
-## Rust Enthusiast ## Electronics Enthusiast ## Django 
+## AI ## Crypto ## IOT
 Lifelong learner. Feel free to hit me up ;)
 
 <br>
