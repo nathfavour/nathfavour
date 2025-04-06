@@ -3,7 +3,7 @@
 
 Yo! I mostly write code nowadays. Curious about engineering, science, etc. 
 
-## AI ## Crypto ## IOT
+## AI ## CYBERSECURITY ## BLOCKCHAIN ## IOT
 
 I'll create anything that interests me...
 Lifelong learner. Feel free to hit me up ;)
