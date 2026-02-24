@@ -1,202 +1,65 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, Full-Stack Engineer here.</h1>
+<h1 align="center">Hi 👋, I'm Favour.</h1>
 
-Yo! I mostly write code nowadays. Curious about engineering, science, etc. 
-
-## AI ## CYBERSECURITY ## BLOCKCHAIN ## IOT
-
-I'll create anything that interests me...
-Lifelong learner. Feel free to hit me up ;)
-
-<br>
-
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Next.js" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Next.js" />
-      <br>Golang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
-      <br>Actix
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Next.js" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Next.js" />
-      <br>Kafka
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Next.js" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RESTful API
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
-      <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
-      <br>Babel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-  </tr>
-</table>
+  <strong>Full-Stack Engineer | R&D Enthusiast | AI, Cybersecurity, & Blockchain Architect</strong>
 </p>
-<hr>
-<br>
-</div>
 
-<h1 align="center">⚡ Github Stats</h1>
+<p align="center">
+  I build autonomous systems, cryptographic protocols, and private-first ecosystems. 
+  Driven by applied mathematics and system-level engineering.
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathfavour&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathfavour&theme=algolia) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=nathfavour&theme=vue-dark" alt="nathfavour Streak" />                                           |  <img width="450em" align="center" alt="nathfavour's Github stats"  src="https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark" />   |
+---
+
+## 🚀 Proof of Work: Key Projects
+
+### 🛠️ Orchestration & Core Frameworks
+*   **[anyisland](https://github.com/nathfavour/anyisland)** – The central nervous system of my ecosystem; an AI-powered, OS-agnostic package manager that orchestrates the decentralized distribution and lifecycle of agentic software.
+*   **[auracrab](https://github.com/nathfavour/auracrab)** – A ubiquitous framework for the agentic era, enabling autonomous "digital butlers" to operate with deep, intimate system-level access and reasoning.
+*   **[vibeauracle](https://github.com/nathfavour/vibeauracle)** – A distributed engineering oracle providing real-time, context-aware technical guidance by bridging AI reasoning with local system telemetry.
+
+### 🧪 Research & Development (Applied Math & Cryptography)
+*   **[huggkey](https://github.com/nathfavour/huggkey)** – Deep cryptographic research into experimental authentication protocols, leveraging Elliptic Curve Cryptography (ECC) to redefine decentralized identity.
+*   **[settlerengine](https://github.com/nathfavour/settlerengine)** – A high-throughput R&D payment infrastructure designed for autonomous settlement and transaction efficiency between agentic entities.
+*   **[vault](https://github.com/nathfavour/vault)** – A masterpiece of applied mathematics and security engineering, utilizing Zero-Knowledge principles to safeguard sensitive keys while maintaining a seamless user experience.
+
+### 🛡️ Privacy & Web3 Infrastructure
+*   **[shadowprism](https://github.com/nathfavour/shadowprism)** – A polyglot privacy sidecar for Solana that aggregates fragmented privacy protocols into a singular, high-performance agentic interface.
+*   **[privibase](https://github.com/nathfavour/privibase)** – A self-hostable, Web3-native backend-as-a-service providing a decentralized and private alternative to legacy cloud infrastructures.
+*   **[zDNS](https://github.com/nathfavour/zDNS)** – Networking R&D implementing private, DNS-based device discovery for zero-trust environments and private local meshes.
+
+### 🌌 Kylrix Suite (De-Googled Agentic Productivity)
+*A private, agent-integrated ecosystem designed to reclaim digital sovereignty and cognitive flow.*
+*   **[flow](https://github.com/nathfavour/flow)** – Agentic task management that prioritizes deep work and data privacy over centralized tracking.
+*   **[note](https://github.com/nathfavour/note)** – Secure, AI-augmented knowledge management for capturing and synthesizing thought in a private-first environment.
+*   **[connect](https://github.com/nathfavour/connect)** – Decentralized communication layers that bypass traditional silos for secure, peer-to-peer interaction.
+
+### 🧰 Specialized Tooling
+*   **[autocommiter](https://github.com/nathfavour/autocommiter)** – The silent architect of my development cycle; an AI tool that has generated the semantic history for nearly every commit I've made recently.
+*   **[plangwiz](https://github.com/nathfavour/plangwiz)** – A high-precision C-based coding assistant built to provide deep, accurate structural analysis and code explanation.
+*   **[vish](https://github.com/nathfavour/vish)** – A custom shell environment optimized for "vibe coding," streamlining the interface between the terminal and AI-assisted development.
+*   **[vibetype](https://github.com/nathfavour/vibetype)** – A Go-native performance benchmarking suite for measuring interaction speed and accuracy for both humans and AI agents.
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathfavour&theme=algolia" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathfavour&theme=algolia" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=nathfavour&theme=vue-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark" />
+</p>
 
 <br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar.&author=nathfavour" /> </p>
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar.&author=nathfavour" /> 
+</p>
 
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=nathfavour" /></h1>
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathfavour" />
+</p>
