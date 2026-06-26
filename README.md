@@ -1,53 +1,65 @@
-[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, I'm Favour.</h1>
+# Hi 👋, I'm Favour.
 
 <p align="center">
-  <strong>Full-Stack Engineer | R&D Enthusiast | AI, Cybersecurity, & Blockchain Architect</strong>
+  <a href="https://github.com/nathfavour">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Engineer;AI%2C+Cybersecurity%2C+%26+Blockchain+Architect;Building+Autonomous+Agent+Systems;Applied+Mathematics+%26+Systems+Engineering" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I build autonomous systems, cryptographic protocols, and private-first ecosystems. 
-  Driven by applied mathematics and system-level engineering.
+  <strong>I design and build autonomous agent systems, cryptographic payment rails, and private-first software suites. Driven by systems-level engineering and applied mathematics.</strong>
 </p>
 
 ---
 
-## 🚀 Proof of Work: Key Projects
+## 🏗️ Featured Proof of Work
 
-### 🛠️ Orchestration & Core Frameworks
-*   **[anyisland](https://github.com/nathfavour/anyisland)** – The central nervous system of my ecosystem; an AI-powered, OS-agnostic package manager that orchestrates the decentralized distribution and lifecycle of agentic software.
-*   **[auracrab](https://github.com/nathfavour/auracrab)** – A ubiquitous framework for the agentic era, enabling autonomous "digital butlers" to operate with deep, intimate system-level access and reasoning.
+### 🪐 Agentic Operating Systems & Orchestration
+*   **[tony](https://github.com/nathfavour/tony)** – The ultimate operating system designed natively for autonomous AI agents.
+*   **[polygeist](https://github.com/nathfavour/polygeist)** – A local/enterprise software engineering agentic orchestra designed to chew through codebases like paper.
+*   **[anyisland](https://github.com/nathfavour/anyisland)** – The first agentic, OS-agnostic package manager that orchestrates the decentralized distribution and lifecycle of agentic software.
+*   **[auracrab](https://github.com/nathfavour/auracrab)** – A ubiquitous framework for the agentic era, enabling autonomous "digital butlers" with deep system-level access and reasoning.
+*   **[spine](https://github.com/nathfavour/spine)** – High-performance backbone and cluster management system for core AI agent clusters.
+
+### 🌌 Kylrix Productivity Suite (Unified)
+*A secure, private, agent-integrated ecosystem designed to reclaim digital sovereignty and cognitive flow.*
+*   **[kylrix](https://github.com/nathfavour/kylrix)** – The flagship landing page and central coordinator of the Kylrix suite. Consolidates previously fragmented projects (**note**, **flow**, **vault**, and **connect**) into a single, cohesive productivity experience.
+*   **[kylrix-app](https://github.com/nathfavour/kylrix-app)** – The native app shell hosting the unified Kylrix productivity suite across platforms.
+*   **[kylrix-google-integration](https://github.com/nathfavour/kylrix-google-integration)** – A proof-of-concept demonstrating seamless, secure bidirectional synchronization between the private Kylrix suite and Google products.
+
+### ⚡ Agentic Programming Languages & DevTools
+*   **[ship](https://github.com/nathfavour/ship)** – The first programming language designed from the ground up to be written, compiled, and maintained by AI agents.
+*   **[antigravity-sdk-python](https://github.com/nathfavour/antigravity-sdk-python)** – A Python SDK for building agents that leverage the full power of Google Antigravity.
 *   **[vibeauracle](https://github.com/nathfavour/vibeauracle)** – A distributed engineering oracle providing real-time, context-aware technical guidance by bridging AI reasoning with local system telemetry.
-
-### 🧪 Research & Development (Applied Math & Cryptography)
-*   **[huggkey](https://github.com/nathfavour/huggkey)** – Deep cryptographic research into experimental authentication protocols, leveraging Elliptic Curve Cryptography (ECC) to redefine decentralized identity.
-*   **[settlerengine](https://github.com/nathfavour/settlerengine)** – A high-throughput R&D payment infrastructure designed for autonomous settlement and transaction efficiency between agentic entities.
-*   **[vault](https://github.com/nathfavour/vault)** – A masterpiece of applied mathematics and security engineering, utilizing Zero-Knowledge principles to safeguard sensitive keys while maintaining a seamless user experience.
-
-### 🛡️ Privacy & Web3 Infrastructure
-*   **[shadowprism](https://github.com/nathfavour/shadowprism)** – A polyglot privacy sidecar for Solana that aggregates fragmented privacy protocols into a singular, high-performance agentic interface.
-*   **[privibase](https://github.com/nathfavour/privibase)** – A self-hostable, Web3-native backend-as-a-service providing a decentralized and private alternative to legacy cloud infrastructures.
-*   **[zDNS](https://github.com/nathfavour/zDNS)** – Networking R&D implementing private, DNS-based device discovery for zero-trust environments and private local meshes.
-
-### 🌌 Kylrix Suite (De-Googled Agentic Productivity)
-*A private, agent-integrated ecosystem designed to reclaim digital sovereignty and cognitive flow.*
-*   **[flow](https://github.com/nathfavour/flow)** – Agentic task management that prioritizes deep work and data privacy over centralized tracking.
-*   **[note](https://github.com/nathfavour/note)** – Secure, AI-augmented knowledge management for capturing and synthesizing thought in a private-first environment.
-*   **[connect](https://github.com/nathfavour/connect)** – Decentralized communication layers that bypass traditional silos for secure, peer-to-peer interaction.
-
-### 🧰 Specialized Tooling
-*   **[autocommiter](https://github.com/nathfavour/autocommiter)** – The silent architect of my development cycle; an AI tool that has generated the semantic history for nearly every commit I've made recently.
-*   **[plangwiz](https://github.com/nathfavour/plangwiz)** – A high-precision C-based coding assistant built to provide deep, accurate structural analysis and code explanation.
+*   **[autocommiter](https://github.com/nathfavour/autocommiter)** – AI-powered semantic git commit generator, with a high-performance port in Go at **[autocommiter.go](https://github.com/nathfavour/autocommiter.go)**.
 *   **[vish](https://github.com/nathfavour/vish)** – A custom shell environment optimized for "vibe coding," streamlining the interface between the terminal and AI-assisted development.
 *   **[vibetype](https://github.com/nathfavour/vibetype)** – A Go-native performance benchmarking suite for measuring interaction speed and accuracy for both humans and AI agents.
 
+### 🛡️ Privacy, Security & Blockchain Infrastructure
+*   **[shadowprism](https://github.com/nathfavour/shadowprism)** – A polyglot privacy sidecar and AI agent that aggregates Solana’s top privacy protocols into a unified, agentic interface.
+*   **[settlerengine](https://github.com/nathfavour/settlerengine)** – A high-throughput cryptographic payment engine designed for autonomous settlement and transaction efficiency between agentic entities.
+*   **[settledaddy](https://github.com/nathfavour/settledaddy)** – A developer-first, secure merchant payment gateway ("Stripe, but for crypto") with core logic at **[Settle-Daddy-Core](https://github.com/nathfavour/Settle-Daddy-Core)**.
+*   **[settlerwallet](https://github.com/nathfavour/settlerwallet)** – Autonomous wallet built for the AI agentic commerce era.
+*   **[gobackhome](https://github.com/nathfavour/gobackhome)** – A self-hostable, modern backend-as-a-service (BaaS) and dashboard (**[Gobackhomeui](https://github.com/nathfavour/Gobackhomeui)**) designed to be the only backend you need.
+*   **[privibase](https://github.com/nathfavour/privibase)** – A self-hostable, Web3-native backend-as-a-service providing a decentralized and private alternative to legacy cloud infrastructures.
+*   **[zDNS](https://github.com/nathfavour/zDNS)** – Networking R&D implementing private, DNS-based device discovery for zero-trust environments.
+
+### 🕶️ Hardware & IoT Systems
+*   **[clarigggzOS](https://github.com/nathfavour/clarigggzOS)** – The first AI agent-integrated smart glasses OS, designed for Risc-V architectures.
+*   **[hardware.arglasses](https://github.com/nathfavour/hardware.arglasses)** – Embedded system logic and firmware for custom AR glasses hardware.
+*   **[hardware.drone1](https://github.com/nathfavour/hardware.drone1)** – Autonomous flight control systems and agent routing for custom drone hardware.
+
 ---
 
-## ⚡ GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathfavour&theme=algolia" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathfavour&theme=algolia" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathfavour&theme=algolia" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathfavour&theme=algolia" />
 </p>
 
 <p align="center">
@@ -55,9 +67,12 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark" />
 </p>
 
-<br/>
-<p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar.&author=nathfavour" /> 
+<p align="center">
+  <img src="metrics/coding_habits.svg" alt="Coding Habits" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Diversification%20is%20kevlar.&author=nathfavour" />
 </p>
 
 <p align="center">
