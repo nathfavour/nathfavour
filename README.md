@@ -19,6 +19,7 @@
 *   **[polygeist](https://github.com/nathfavour/polygeist)** – A local/enterprise software engineering agentic orchestra designed to chew through codebases like paper.
 *   **[anyisland](https://github.com/nathfavour/anyisland)** – The first agentic, OS-agnostic package manager that orchestrates the decentralized distribution and lifecycle of agentic software.
 *   **[auracrab](https://github.com/nathfavour/auracrab)** – A ubiquitous framework for the agentic era, enabling autonomous "digital butlers" with deep system-level access and reasoning.
+*   **[Opencofounder](https://github.com/nathfavour/Opencofounder)** – Build a solocorn with autonomous AI agent teams.
 
 ### 🌌 Kylrix Productivity Suite (Unified)
 *A secure, private, agent-integrated ecosystem designed to reclaim digital sovereignty and cognitive flow.*
@@ -40,10 +41,13 @@
 *   **[privibase](https://github.com/nathfavour/privibase)** – A self-hostable, Web3-native backend-as-a-service providing a decentralized and private alternative to legacy cloud infrastructures.
 *   **[gobackhome](https://github.com/nathfavour/gobackhome)** – A self-hostable, modern backend-as-a-service (BaaS) and dashboard (**[Gobackhomeui](https://github.com/nathfavour/Gobackhomeui)**) designed to be the only backend you need.
 
-### 🕶️ Hardware OS & Autonomous Systems
-*   **[clarigggzOS](https://github.com/nathfavour/clarigggzOS)** – The first AI agent-integrated smart glasses OS, designed for Risc-V architectures.
-*   **[threader](https://github.com/nathfavour/threader)** – Autonomous agentic system for marketing anything on Threads.
+### 🤖 Specialized AI & Media Systems
+*   **[LingoLens](https://github.com/nathfavour/LingoLens)** – Audio intelligence system designed to detect and analyze accents directly from audio streams.
+*   **[jarvis](https://github.com/nathfavour/jarvis)** – AI-powered personal assistant designed specifically for Gen Z creatives.
+*   **[EADGClub](https://github.com/nathfavour/EADGClub)** – AI-agent-powered autonomous music production and collaboration platform.
+*   **[threader](https://github.com/nathfavour/threader)** – Autonomous marketing agent system optimized for content distribution on Threads.
 *   **[huggchat](https://github.com/nathfavour/huggchat)** – Next-generation communication platform designed for autonomous agent-to-agent interactions.
+*   **[clarigggzOS](https://github.com/nathfavour/clarigggzOS)** – The first AI agent-integrated smart glasses OS, designed for Risc-V architectures.
 
 ---
 
