@@ -27,6 +27,7 @@
 
 ### ⚡ Systems Languages, R&D & Developer Tools
 *   **[ship](https://github.com/nathfavour/ship)** – The first programming language designed from the ground up to be written, compiled, and maintained by AI agents.
+*   **[keystone-zig](https://github.com/nathfavour/keystone-zig)** – A secure, enclave-based RISC-V TEE framework rewritten in Zig to power agentic operating systems.
 *   **[vibeauracle](https://github.com/nathfavour/vibeauracle)** – A distributed engineering oracle bridging AI reasoning with local system telemetry.
 *   **[autocommiter](https://github.com/nathfavour/autocommiter)** – AI-powered semantic git commit generator, with a high-performance port in Go at **[autocommiter.go](https://github.com/nathfavour/autocommiter.go)**.
 *   **[vish](https://github.com/nathfavour/vish)** – A custom shell environment optimized for "vibe coding," streamlining the interface between the terminal and AI-assisted development.
@@ -34,6 +35,8 @@
 
 ### 🛡️ Privacy, Security & Blockchain Infrastructure
 *   **[shadowprism](https://github.com/nathfavour/shadowprism)** – A polyglot privacy sidecar and AI agent that aggregates Solana’s top privacy protocols into a unified, agentic interface.
+*   **[poly16duo](https://github.com/nathfavour/poly16duo)** – Zero-allocation, pure-SIMD post-quantum cryptography (PQC) primitive written in Zig and compiled to freestanding WebAssembly for absolute, stateless multi-tenant edge security.
+*   **[TMP](https://github.com/nathfavour/TMP)** – Tendon Message Protocol, a decentralized, schema-driven alternative to SMTP powering Web3 emails and in-app inboxes.
 *   **[settlerengine](https://github.com/nathfavour/settlerengine)** – A high-throughput cryptographic payment engine designed for autonomous settlement and transaction efficiency between agentic entities.
 *   **[settledaddy](https://github.com/nathfavour/settledaddy)** – A developer-first, secure merchant payment gateway ("Stripe, but for crypto").
 *   **[settlerwallet](https://github.com/nathfavour/settlerwallet)** – Autonomous wallet built for the AI agentic commerce era.
