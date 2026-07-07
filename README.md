@@ -27,6 +27,7 @@
 
 ### ⚡ Systems Languages, R&D & Developer Tools
 *   **[ship](https://github.com/nathfavour/ship)** – The first programming language designed from the ground up to be written, compiled, and maintained by AI agents.
+*   **[openbuidl](https://github.com/nathfavour/openbuidl)** – Traditional hackathons/grant programmes are manual, slow, possibly biased and chase the nearest ephemeral hypes. openbuidl fixes that by being the first truly agentic meritocratic system for high impact open source projects to get short/long term funding and collaboration.
 *   **[keystone-zig](https://github.com/nathfavour/keystone-zig)** – A secure, enclave-based RISC-V TEE framework rewritten in Zig to power agentic operating systems.
 *   **[vibeauracle](https://github.com/nathfavour/vibeauracle)** – A distributed engineering oracle bridging AI reasoning with local system telemetry.
 *   **[autocommiter](https://github.com/nathfavour/autocommiter)** – AI-powered semantic git commit generator, with a high-performance port in Go at **[autocommiter.go](https://github.com/nathfavour/autocommiter.go)**.
