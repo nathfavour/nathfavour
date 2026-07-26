@@ -1,4 +1,4 @@
-# Hi 👋, I'm Favour.
+# Hi 👋, I'm nathfavour.
 
 <p align="center">
   <a href="https://github.com/nathfavour">
